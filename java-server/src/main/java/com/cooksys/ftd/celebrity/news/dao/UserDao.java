@@ -2,7 +2,7 @@ package com.cooksys.ftd.celebrity.news.dao;
 
 import java.util.Optional;
 
-import com.cooksys.ftd.celebrity.news.model.User;
+import com.cooksys.ftd.celebrity.news.model.db.User;
 
 public class UserDao extends AbstractDao {
 

@@ -3,7 +3,7 @@ package com.cooksys.ftd.celebrity.news.dao;
 import java.sql.Connection;
 import java.util.List;
 
-import com.cooksys.ftd.celebrity.news.model.Actor;
+import com.cooksys.ftd.celebrity.news.model.db.Actor;
 
 public class ActorDao extends AbstractDao {
 	

@@ -1,4 +1,4 @@
-package com.cooksys.ftd.celebrity.news.model;
+package com.cooksys.ftd.celebrity.news.model.db;
 
 public class Actor {
 
