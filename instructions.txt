@@ -1,0 +1,19 @@
+javascript client (command line interface)
+  * list all actors on the server
+
+  * only allow these commands if a user is not logged in
+    * register a user
+    * login as a user
+
+  * only allow these commands if a user is logged in
+    * list all of the logged-in-user's favorite actors
+    * add an actor to the logged-in-user's list of favorites
+    * logout the current logged-in-user
+
+java server
+  * support multiple client connections
+  * accept and process the following commands:
+    * register a user
+    * retrieve the hashed password of a user
+    * retrieve the list of favorited actors of a given user
+    * add a given actor to a given user's list of favorites
