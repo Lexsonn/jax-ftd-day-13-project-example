@@ -18,7 +18,9 @@ public class ClientHandler implements Runnable {
 
 	@Override
 	public void run() {
-		// TODO Auto-generated method stub
+		// read commands and data from the client
+		// then send back a Response<T> object
+		// rinse and repeat
 	}
 
 	public BufferedReader getReader() {
