@@ -13,6 +13,7 @@ javascript client (command line interface)
 java server
   * support multiple client connections
   * accept and process the following commands:
+    * list all actors
     * register a user
     * retrieve the hashed password of a user
     * retrieve the list of favorited actors of a given user
